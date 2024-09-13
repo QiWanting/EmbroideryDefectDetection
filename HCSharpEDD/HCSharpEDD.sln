@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCSharpEDD", "HCSharpEDD\HCSharpEDD.csproj", "{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCSharpEDD", "HCSharpEDD\HCSharpEDD.csproj", "{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6A9D278F-E66C-49A9-8F82-8BDFFE867A82}
+		SolutionGuid = {0920AAAB-798F-4D08-8778-6D847F482C8F}
 	EndGlobalSection
 EndGlobal

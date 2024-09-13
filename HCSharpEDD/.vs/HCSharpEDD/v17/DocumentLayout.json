@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\own\\2024\\tian\\yolov8quexianjiance\\HCSharpEDD\\HCSharpEDD\\",
+  "WorkspaceRootPath": "D:\\own\\2024\\tian\\yolov8quexianjiance\\Code\\EmbroideryDefectDetection\\HCSharpEDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}|HCSharpEDD\\HCSharpEDD.csproj|d:\\own\\2024\\tian\\yolov8quexianjiance\\hcsharpedd\\hcsharpedd\\hcsharpedd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EFA2A0B4-E7C4-4C72-AD3A-BF7B9BF94348}|HCSharpEDD\\HCSharpEDD.csproj|solutionrelative:hcsharpedd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}|HCSharpEDD\\HCSharpEDD.csproj|d:\\own\\2024\\tian\\yolov8quexianjiance\\code\\embroiderydefectdetection\\hcsharpedd\\hcsharpedd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}|HCSharpEDD\\HCSharpEDD.csproj|solutionrelative:hcsharpedd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}|HCSharpEDD\\HCSharpEDD.csproj|d:\\own\\2024\\tian\\yolov8quexianjiance\\code\\embroiderydefectdetection\\hcsharpedd\\hcsharpedd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{175BAB27-E4EE-4310-8F5A-4BB365AC8A77}|HCSharpEDD\\HCSharpEDD.csproj|solutionrelative:hcsharpedd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,13 +39,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\own\\2024\\tian\\yolov8quexianjiance\\HCSharpEDD\\HCSharpEDD\\HCSharpEDD\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\own\\2024\\tian\\yolov8quexianjiance\\Code\\EmbroideryDefectDetection\\HCSharpEDD\\HCSharpEDD\\Form1.cs",
               "RelativeDocumentMoniker": "HCSharpEDD\\Form1.cs",
-              "ToolTip": "D:\\own\\2024\\tian\\yolov8quexianjiance\\HCSharpEDD\\HCSharpEDD\\HCSharpEDD\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "HCSharpEDD\\Form1.cs [\u8BBE\u8BA1]",
+              "ToolTip": "D:\\own\\2024\\tian\\yolov8quexianjiance\\Code\\EmbroideryDefectDetection\\HCSharpEDD\\HCSharpEDD\\Form1.cs*",
+              "RelativeToolTip": "HCSharpEDD\\Form1.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAB0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:39:25.786Z",
+              "WhenOpened": "2024-09-13T09:55:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\own\\2024\\tian\\yolov8quexianjiance\\Code\\EmbroideryDefectDetection\\HCSharpEDD\\HCSharpEDD\\Form1.cs",
+              "RelativeDocumentMoniker": "HCSharpEDD\\Form1.cs",
+              "ToolTip": "D:\\own\\2024\\tian\\yolov8quexianjiance\\Code\\EmbroideryDefectDetection\\HCSharpEDD\\HCSharpEDD\\Form1.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "HCSharpEDD\\Form1.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:51:05.306Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             }
           ]
